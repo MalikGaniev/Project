@@ -24,4 +24,10 @@ public class projectWork {
             this.m = m;
         }
     }
+    public void e(int J){
+
+    }
+    public void e(){
+
+    }
 }
