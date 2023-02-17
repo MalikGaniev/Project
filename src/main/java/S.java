@@ -1,3 +1,4 @@
+import java.math.BigDecimal;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -10,5 +11,13 @@ public class S extends P{
             e.add(x);
         }
         return e;
+    }
+
+    @Override
+    public void k() {
+        super.k();
+    }
+    public void k(BigDecimal t){
+
     }
 }
